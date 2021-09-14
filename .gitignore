@@ -125,11 +125,11 @@ dmypy.json
 
 # Idea
 .idea/
+.idea/*
 .idea/**/misc.xml
 .idea/**/modules.xml
 .idea/**/vcs.xml
 .idea/**/workspace.xml
 .idea/**/AI-Bot-Calculator.iml
 .idea/**/inspectionProfiles
-idea/**/
 
