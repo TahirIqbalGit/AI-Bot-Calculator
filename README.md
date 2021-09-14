@@ -1,4 +1,4 @@
 ## AI Bot Calculator
 
-<img src="chatbot.png" width="700" height="400">
+<img src="chatbot.png" width="750" height="450">
 
