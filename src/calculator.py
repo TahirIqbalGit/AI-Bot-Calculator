@@ -10,7 +10,7 @@ print('\033c')
 
 # Start Calculator
 print("Hello, I'm Bot Calculator. How can I help you?")
-print("--- How to use? Type 'info' ---")
+print("<--- How to use? Type 'info' --->")
 
 while True:
     # Taking Input from User
@@ -26,7 +26,7 @@ while True:
         time.sleep(3)
         print("\tYES")
         print("===================")
-        print("--- Follow on GitHub ---")
+        print("<--- Follow on GitHub --->")
         print("https://www.github.com/TahirIqbalGit/")
         break
     
